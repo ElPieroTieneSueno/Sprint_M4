@@ -13,8 +13,7 @@
 Equipo 2: El Piero tiene sueño.
 
 Integrantes:
-* [Miguel Lucero](https://github.com/miguellucero123/Sprint-m4-java)
-* [Pamela Correa](https://github.com/Pame-b182/Sprint-m4-java)
+* [Pamela Correa](https://github.com/Pame-b182/Sprint_m4)
 * [Nelson Medel](https://github.com/chinomedel/Sprint-m4-java)
 * [Sebastián Muñoz](https://github.com/SebMunz/Sprint-m4-java)
 
